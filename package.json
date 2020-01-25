@@ -1,6 +1,6 @@
 {
   "name": "ng-workspace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "lint-staged": {
     "*.{js,ts,json,scss,css,html}": [
@@ -98,6 +98,7 @@
     "ng-packagr": "^4.2.0",
     "prettier": "^1.19.1",
     "protractor": "~5.4.0",
+    "semantic-release": "^16.0.3",
     "sort-package-json": "^1.23.1",
     "ts-node": "~7.0.0",
     "tsickle": ">=0.34.0",

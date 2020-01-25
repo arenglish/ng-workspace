@@ -1,0 +1,8 @@
+{
+  "analyzeCommits": "@semantic-release/commit-analyzer",
+  "verifyConditions": "",
+  "prepare": "./tools/semantic-release-plugins/ngx",
+  "success": false,
+  "fail": false,
+  "branch": "master"
+}
